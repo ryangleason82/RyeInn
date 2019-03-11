@@ -1,4 +1,4 @@
-# RyeInn
+# @TheRyeInn
 ## A social media site for digital nomads 
 
 What is the Rye Inn? Where is the Rye Inn? It’s whatever you want it to be. It’s wherever you want it to be. The Rye Inn is anywhere but home, and in turn, is your home. The Rye Inn is your adventure.The Rye Inn is where you live when you are completely free. 
